@@ -1,1 +1,1 @@
-{"root":{"data":{"id":"dhvjzqzgh740","created":1776441604662,"text":"Back-end"},"children":[{"data":{"id":"dhvk018cypk0","created":1776441626967,"text":"Introduction"},"children":[]}]},"template":"default","theme":"fresh-blue","version":"1.4.43"}
+{"root":{"data":{"id":"dhvjzqzgh740","created":1776441604662,"text":"Back-end"},"children":[{"data":{"id":"dhvk018cypk0","created":1776441626967,"text":"Introduction","priority":1},"children":[]}]},"template":"default","theme":"fresh-blue","version":"1.4.43"}
